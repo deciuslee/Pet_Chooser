@@ -8,7 +8,7 @@ from creds import *
 # Import Pets class
 from pet_class import Pet
 
-print("*****Welcome to the Pet Chooser Program*****")
+print("******Welcome to the Pet Chooser Program******")
 print()
 input("Press [Enter] to begin:")
 
